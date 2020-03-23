@@ -1,5 +1,7 @@
 # Heart-Disease-Prediction
 
+Detailed explanation in the blog [priyanka.malladi.hashnode.dev](https://priyankamalladi.hashnode.dev/predicting-heart-disease-using-machine-learning-models-ck8459rcp04qlzns1esgi1k7r)
+
 ## Introduction
 
 Heart disease is a term covering any disorder of the heart.
