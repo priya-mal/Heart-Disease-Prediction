@@ -55,7 +55,7 @@ The following are the features we'll use to predict our target variable (heart d
     * 1,3: normal
     * 6: fixed defect: used to be defect but ok now
     * 7: reversable defect: no proper blood movement when excercising 
-14. target - have disease or not (1=yes, 0=no) (= the predicted attribute)
+14. target - tell us whether person have disease or not (1=yes, 0=no) (= the predicted attribute)
 
 Once exploring the data, We'll try to use machine learning to predict our target variable based on the 13 independent variables.
 
