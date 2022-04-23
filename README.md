@@ -71,7 +71,7 @@ Now we've got our data prepared, we can start to fit models. We'll be using the 
 2. K-Nearest Neighbors - [`KNeighboursClassifier()`](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
 3. RandomForest - [`RandomForestClassifier()`](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
 
-## Evaluations
+## Evaluations..
 The confusion matrix is used to evaluate the accuracy of the model.
 
 
